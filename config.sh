@@ -11,13 +11,12 @@
 #   2: devkitPPC
 #   3: devkitA64
 #---------------------------------------------------------------------------------
-BUILD_DKPRO_PACKAGE=0
+BUILD_DKPRO_PACKAGE=1
 
 #---------------------------------------------------------------------------------
 # Toolchain installation directory, comment if not specified
 #---------------------------------------------------------------------------------
-#BUILD_DKPRO_INSTALLDIR=/opt/devkitpro
-#BUILD_DKPRO_INSTALLDIR=c:/devkitPro
+#BUILD_DKPRO_INSTALLDIR=c:/3ds-dev
 
 #---------------------------------------------------------------------------------
 # Path to previously downloaded source packages, comment if not specified
